@@ -32,7 +32,7 @@ viewport란 화면 Display상의 표시 영역을 뜻한다.
   }
  ```
 
-실제로는 *width : 12*25 = 300px , height = 9*50 = 450px*로 계산 되어서 적용이 된다.   
+실제로는 *width : 12`*`25 = 300px , height = 9`*`50 = 450px*로 계산 되어서 적용이 된다.   
 
 ### 2. JS : onchange 이벤트  
 HTML 요소의 값이 변경 되면 이벤트 onchange가 발생   
